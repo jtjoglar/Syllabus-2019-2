@@ -18,55 +18,20 @@
 
 ### Profesor
 
-Nombre         | Sección | Email
--------------- | ------- | ---------------------
-Adrián Soto    | 1       | [assoto@uc.cl]
+Nombre            | Sección | Email
+----------------- | ------- | ---------------------
+Juan Reutter      | 1       | [jreutter@ing.puc.cl]
+Vicente Domínguez | 2       | [vidominguez@uc.cl]
 
-### Ayudantes de cátedra
+### Ayudantes
 
 Nombre                 | Email
 ---------------------- | ----------------
-**Isidora Vizcaya**    | [isvizcaya@uc.cl]
-Romano Fenzo           | [rfenzo@uc.cl]
-Tamara Cucumides       | [tacucumides@uc.cl]
-Constanza Gaínza       | [cmgainza@uc.cl]
-María Ignacia Sánchez  | [mcsanchez@uc.cl]
-Marcelo Saldías        | [misaldias@uc.cl]
-Daniela Concha         | [daconcha@uc.cl]
-Patricio de Solminihac | [pdesolminihac@uc.cl]
+**Tamara Cucumides**   | [tacucumides@uc.cl]
 
-
-### Ayudantes de proyecto
-
-Nombre              | Email
-------------------- | ----------------
-**Felipe Silva**    | [lfsilva1@uc.cl]
-Wenyi He Yang       | [whe1@uc.cl]
-Kevin Johnson       | [kjjohnson@uc.cl]
-Nicolás Quiroz      | [naquiroz@uc.cl]
-Philippe Potin      | [papotin@uc.cl]
-Fernanda Durán      | [frduran@uc.cl]
-Valentina Álvarez   | [vjalvarez@uc.cl]
-Valentina Rojas     | [varojasm@uc.cl]
-
-
-[assoto@uc.cl]: mailto:assoto@uc.cl
-[isvizcaya@uc.cl]: mailto:isvizcaya@uc.cl
-[lfsilva1@uc.cl]: mailto:lfsilva1@uc.cl
-[rfenzo@uc.cl]: mailto:rfenzo@uc.cl
-[whe1@uc.cl]: mailto:whe1@uc.cl
-[kjjohnson@uc.cl]: mailto:kjjohnson@uc.cl
+[jreutter@ing.puc.cl]: mailto:jreutter@ing.puc.cl
+[vidominguez@uc.cl]: mailto:vidominguez@uc.cl
 [tacucumides@uc.cl]: mailto:tacucumides@uc.cl
-[cmgainza@uc.cl]: mailto:cmgainza@uc.cl
-[mcsanchez@uc.cl]: mailto:mcsanchez@uc.cl
-[misaldias@uc.cl]: mailto:misaldias@uc.cl
-[naquiroz@uc.cl]: mailto:naquiroz@uc.cl
-[papotin@uc.cl]: mailto:papotin@uc.cl
-[frduran@uc.cl]: mailto:frduran@uc.cl
-[vjalvarez@uc.cl]: mailto:vjalvarez@uc.cl
-[daconcha@uc.cl]: mailto:daconcha@uc.cl
-[pdesolminihac@uc.cl]: mailto:pdesolminihac@uc.cl
-[varojasm@uc.cl]: mailto:varojasm@uc.cl
 
 
 ---
