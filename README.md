@@ -5,10 +5,6 @@
 - [Equipo](#equipo)
   - [Profesor](#profesor)
   - [Ayudantes](#ayudantes)
-- [Evaluación](#evaluación)
-  - [Nota de Cátedra](#nota-de-cátedra)
-  - [Nota de Proyecto](#nota-de-proyecto)
-  - [Nota Final](#nota-final)
 - [Foro](#foro)
 - [Política de integridad académica](#política-de-integridad-académica)
 
