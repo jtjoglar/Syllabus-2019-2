@@ -27,53 +27,17 @@ Vicente Domínguez | 2       | [vidominguez@uc.cl]
 
 Nombre                 | Email
 ---------------------- | ----------------
-**Tamara Cucumides**   | [tacucumides@uc.cl]
+Tamara Cucumides   | [tacucumides@uc.cl] 
+Kevin Johnson | [kjjohnson@uc.cl] 
+
 
 [jreutter@ing.puc.cl]: mailto:jreutter@ing.puc.cl
 [vidominguez@uc.cl]: mailto:vidominguez@uc.cl
 [tacucumides@uc.cl]: mailto:tacucumides@uc.cl
-
-
----
-
-## Evaluación
-
-### Nota de Cátedra
-
-El curso contará con 3 interrogaciones y un examen a lo largo del semestre. El contenido de estas será el material visto en clases, ayudantías y en las actividades del curso. La hora de inicio de las interrogaciones será a las 18:30, mientras que el examen comenzará a las 9:00. Las fechas son las siguientes:
-
-Interrogación     | Fecha
------------------ | -----------------------
-Interrogación \#1 | lunes 08 de abril
-Interrogación \#2 | miércoles 08 de mayo
-Interrogación \#3 | miércoles 05 de junio
-Examen            | martes 02 de julio
-
-La nota de cátedra (_NC_) corresponde a:
-
-_NC = I1 + I2 + I3 + 2·EX - min(I1, I2, I3, Ex)_
-
-### Nota de Proyecto
-
-El curso contará con un proyecto que tiene 5 entregas. Las fechas y el método de entrega será anunciado durante el semestre, para cada entrega.
-
-La nota de proyecto (_NP_) corresponde a:
-
-_NP = 0.05·E1 + 0.20·E2  + 0.3·E3 + 0.20·E4 + 0.25·E5_
-
-**Importante:** La nota de las entregas 3, 4 y 5 estarán sujetas a una evaluación de pares que puede alterar la nota del alumno. Si el profesor lo considera necesario, citará a a los alumnos cuyas evaluaciones de pares indican un comportamiento irregular en las entregas.
-
-### Nota Final
-
-Si _NC > 4.0 y NP > 4.0_ la nota final (_NF_) del curso se calcula como:
-
-_NF = 0.5·NC + 0.5·NP_
-
-En otro caso, la nota se calcula como:
-
-_NF = min(3.9, 0.5·NC + 0.5·NP)_
+[kjjohnson@uc.cl]: mailto:kjjohnson@uc.cl
 
 ---
+
 
 ## Foro
 
@@ -83,7 +47,7 @@ Tanto al publicar como comentar, debes atenerte a las **normas del curso**. Adem
 
 Una vez resuelto el problema, da las **gracias** y **cierra el issue**.
 
-**Importante**: El equipo docente puede tardar hasta 24 horas en contestar una _issue_, aunque normalmente el tiempo de respuesta debería ser menor. Por lo mismo, se recomienda **no publicar _issues_ el mismo día de alguna entrega o interrogación**.
+**Importante**: El equipo docente puede tardar mas de 24 horas en contestar una _issue_, aunque normalmente el tiempo de respuesta debería ser menor. Por lo mismo, se recomienda **no publicar _issues_ el mismo día de alguna entrega o interrogación**.
 
 
 ---
